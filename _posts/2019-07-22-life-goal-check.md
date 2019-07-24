@@ -12,13 +12,13 @@ Just listing out my personal and professional goals from July 2019 to end of Q1 
 ## Personal Goals
 ### Q3-2019
 1. resistance training (3x a week) `#fitness` `#energy`
-2. yoga (2x a week) #fitness `#wellness`
+2. yoga (2x a week) `#fitness` `#wellness`
 3. publish on my blog once a week `#creativity` `#writing`
 4. save up 150K cash (about 70% there) `#finances`
 5. reduce monthly spending by 10% `#finances`
  
 ### Q4-2019
-1. resistance training (3x a week) `#fitnes`s `#energy`
+1. resistance training (3x a week) `#fitness` `#energy`
 2. yoga (2x a week) `#fitness` `#wellness`
 3. finalise plan for home renovations (new house) `#adulting`
 4. save up 200K cash `#finances`
@@ -26,8 +26,8 @@ Just listing out my personal and professional goals from July 2019 to end of Q1 
 
 ### Q1-2020
 1. move into my new house (1st week January) `#adulting` 
-2. Taiwan trip (10 days) `#naturetrip` `#hiking` `#shinrin-yoku`
-3. Thailand trip (90 days) `#workcation`
+2. Taiwan trip (10 days) `#naturetrip` `#hiking` `#shinrin-yoku` `#travel`
+3. Thailand trip (90 days) `#workcation` `#travel`
 
 
 ## Professional Goals
@@ -43,7 +43,7 @@ Just listing out my personal and professional goals from July 2019 to end of Q1 
 
 ### Q4-2019
 
- 1. learn R programming [datacamp course](https://www.datacamp.com/courses/free-introduction-to-r) #foundationskills #datascience
+ 1. learn R programming [datacamp course](https://www.datacamp.com/courses/free-introduction-to-r) `#foundationskills` `#datascience`
  2. learn SQL for data analysis [udacity course](https://www.udacity.com/course/sql-for-data-analysis--ud198)
  3. learn Tableau for data visualisation [linkedin course](https://www.linkedin.com/learning/tableau-essential-training-2)
 
