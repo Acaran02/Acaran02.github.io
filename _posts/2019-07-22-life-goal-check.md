@@ -26,7 +26,7 @@ Just listing out my personal and professional goals from July 2019 to end of Q1 
 
 ### Q1-2020
 1. move into my new house (1st week January) `#adulting` 
-2. Taiwan trip (10 days) `#naturetrip `#hiking` `#shinrin-yoku`
+2. Taiwan trip (10 days) `#naturetrip` `#hiking` `#shinrin-yoku`
 3. Thailand trip (90 days) `#workcation`
 
 
