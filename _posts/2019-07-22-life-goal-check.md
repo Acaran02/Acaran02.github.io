@@ -45,7 +45,7 @@ Just listing out my personal and professional goals from July 2019 to end of Q1 
 
  1. learn R programming [datacamp course](https://www.datacamp.com/courses/free-introduction-to-r) #foundationskills #datascience
  2. learn SQL for data analysis [udacity course](https://www.udacity.com/course/sql-for-data-analysis--ud198)
- 3. learn Tableau for data visualisation [linkedin course] (https://www.linkedin.com/learning/tableau-essential-training-2)
+ 3. learn Tableau for data visualisation [linkedin course](https://www.linkedin.com/learning/tableau-essential-training-2)
 
 ### Q1-2020
 
