@@ -1,0 +1,87 @@
+body {
+    margin: 60px auto;
+    font-size: 14px;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+
+}
+a {
+    text-decoration: none;
+    color: #008080;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 2em;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+}
+
+ul.posts li {
+    list-style: none;
+    font-family:'verdana','Helvetica', 'Arial', 'Sans-Serif';
+}
+
+code {
+  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: #008080;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 0px 3px;
+  display: inline-block;
+  margin: 0px;
+}
+
+
+pre {
+  border: 1px solid #cacaca;
+  line-height: 1.2em;
+  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  padding: 10px;
+  overflow:auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background-color: #FAFAFB;
+  color: #393939;
+  margin: 0px;
+}
