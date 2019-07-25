@@ -22,8 +22,8 @@ I'm hoping to use this platform to publish personal projects I'm working, *signi
 
 ## Next Steps
 
- ~~1. setup this site to point to my `custom domain` (roncarandang.com)~~
- ~~2. improve the site's 'look and feel' with some CSS styling (going for a very minimalist look)~~
+ 1. ~~setup this site to point to my `custom domain` (roncarandang.com)~~
+ 2. ~~improve the site's 'look and feel' with some CSS styling (going for a very minimalist look)~~
  3. [Add pagination on the blog](http://jekyllrb.com/docs/pagination/)
  4. [Setup a sitemap.xml file (for SEO)](https://help.github.com/articles/sitemaps-for-github-pages)
  5. wrap my head around implementing [Jekyll](https://import.jekyllrb.com/docs/home/) 
